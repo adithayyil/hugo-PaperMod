@@ -21,3 +21,11 @@ li {
 .page-header {
   text-transform: lowercase;
 }
+
+li::marker {
+  color: #cba6f7;
+}
+
+.post-tags.li {
+  background-color: #313244;
+}

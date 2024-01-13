@@ -316,7 +316,7 @@
 .paginav {
   border-radius: var(--radius);
   background: var(--code-bg);
-  border: 1px solid var(--border);
+  border: 1px solid #313244;
 }
 
 .post-tags a {
@@ -325,12 +325,13 @@
   color: var(--secondary);
   font-size: 14px;
   line-height: 34px;
-  background: var(--code-bg);
+  background: #313244;
 }
 
 .post-tags a:hover,
 .paginav a:hover {
-  background: var(--border);
+  background: #313240;
+  border: 1px solid #313240;
 }
 
 .share-buttons {

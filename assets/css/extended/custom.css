@@ -6,7 +6,8 @@ h3,
 h4,
 h5,
 span,
-li {
+li,
+tr {
   color: #cdd6f4;
 }
 
@@ -24,8 +25,4 @@ li {
 
 li::marker {
   color: #cba6f7;
-}
-
-.post-tags.li {
-  background-color: #313244;
 }
